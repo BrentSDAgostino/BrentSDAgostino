@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am currently working through ECE 141A in my senior year of college with UCSD
+I am looking forward to strengthening my coding skills through this course.
 <!--
 **BrentSDAgostino/BrentSDAgostino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
